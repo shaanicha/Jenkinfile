@@ -79,7 +79,7 @@ pipeline {
                     </ul>
                 """,
                 recipientProviders: [[$class: 'DevelopersRecipientProvider']],
-                to: 'your-recipient@example.com',
+                to: 'shraddhachaudhari1730@gmail.com',
                 mimeType: 'text/html'
             )
         }
